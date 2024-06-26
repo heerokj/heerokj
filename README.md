@@ -1,4 +1,4 @@
-### 👋 정희록 / Heerok Jung
+#### 👋 정희록 / Heerok Jung
 
 <!--
 **heerokj/heerokj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
