@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://pacific-knave-e55.notion.site/Heerok-Jung-799201bedfef4f9f919974efb981829f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/BLOG-343a40?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://wjdgmlfhr0321.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TISTORY-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a>
